@@ -1,3 +1,6 @@
+> **📦 This extension has been merged into the official [Safari](https://www.raycast.com/loris/safari) extension** as the `Reopen Last Session` command (raycast/extensions#30807, published 2026-09-16).
+> The canonical source now lives at [`extensions/safari/src/reopen-last-session.ts`](https://github.com/raycast/extensions/blob/main/extensions/safari/src/reopen-last-session.ts) in raycast/extensions. This repository is archived and kept for history only.
+
 # Reopen Safari
 
 Accidentally hit **⌘Q** in Safari? This extension relaunches Safari and clicks **History → Reopen All Windows from Last Session** for you — one Raycast command and everything is back.
